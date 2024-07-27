@@ -6,4 +6,4 @@ Hello! I'm Vigneshkumar R, a passionate FullStack Developer with a strong backgr
 - **Backend:** Node.js, NestJS.
 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or reach out via email at your-email@example.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vic07ky10) or reach out via email at vignesh071001@gmail.com.
